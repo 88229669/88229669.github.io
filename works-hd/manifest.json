@@ -1,0 +1,695 @@
+[
+  {
+    "source": "/works/1014-18.webp",
+    "output": "/works-hd/1014-18.webp",
+    "from": "1600x980",
+    "to": "3072x1882",
+    "bytesPerPixel": 0.09
+  },
+  {
+    "source": "/works/1014-2.webp",
+    "output": "/works-hd/1014-2.webp",
+    "from": "1600x920",
+    "to": "3072x1766",
+    "bytesPerPixel": 0.095
+  },
+  {
+    "source": "/works/1037-417.webp",
+    "output": "/works-hd/1037-417.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.045
+  },
+  {
+    "source": "/works/1037-426.webp",
+    "output": "/works-hd/1037-426.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.05
+  },
+  {
+    "source": "/works/1037-435.webp",
+    "output": "/works-hd/1037-435.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.055
+  },
+  {
+    "source": "/works/1037-444.webp",
+    "output": "/works-hd/1037-444.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.043
+  },
+  {
+    "source": "/works/1037-453.webp",
+    "output": "/works-hd/1037-453.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.066
+  },
+  {
+    "source": "/works/1037-461.webp",
+    "output": "/works-hd/1037-461.webp",
+    "from": "1600x1020",
+    "to": "3072x1958",
+    "bytesPerPixel": 0.053
+  },
+  {
+    "source": "/works/1037-578.webp",
+    "output": "/works-hd/1037-578.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.043
+  },
+  {
+    "source": "/works/1037-663.webp",
+    "output": "/works-hd/1037-663.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.041
+  },
+  {
+    "source": "/works/1037-771.webp",
+    "output": "/works-hd/1037-771.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.057
+  },
+  {
+    "source": "/works/1038-2.webp",
+    "output": "/works-hd/1038-2.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.093
+  },
+  {
+    "source": "/works/1040-2.webp",
+    "output": "/works-hd/1040-2.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.072
+  },
+  {
+    "source": "/works/1043-2.webp",
+    "output": "/works-hd/1043-2.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.087
+  },
+  {
+    "source": "/works/1049-2.webp",
+    "output": "/works-hd/1049-2.webp",
+    "from": "1600x4945",
+    "to": "2400x7418",
+    "bytesPerPixel": 0.06
+  },
+  {
+    "source": "/works/1049-52.webp",
+    "output": "/works-hd/1049-52.webp",
+    "from": "1600x4945",
+    "to": "2400x7418",
+    "bytesPerPixel": 0.056
+  },
+  {
+    "source": "/works/1054-2.webp",
+    "output": "/works-hd/1054-2.webp",
+    "from": "1600x1200",
+    "to": "3072x2304",
+    "bytesPerPixel": 0.027
+  },
+  {
+    "source": "/works/1054-31.webp",
+    "output": "/works-hd/1054-31.webp",
+    "from": "1600x1200",
+    "to": "3072x2304",
+    "bytesPerPixel": 0.032
+  },
+  {
+    "source": "/works/1054-67.webp",
+    "output": "/works-hd/1054-67.webp",
+    "from": "1600x1520",
+    "to": "3072x2918",
+    "bytesPerPixel": 0.035
+  },
+  {
+    "source": "/works/1058-16.webp",
+    "output": "/works-hd/1058-16.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.034
+  },
+  {
+    "source": "/works/1063-16.webp",
+    "output": "/works-hd/1063-16.webp",
+    "from": "1600x862",
+    "to": "3072x1655",
+    "bytesPerPixel": 0.064
+  },
+  {
+    "source": "/works/1080-16.webp",
+    "output": "/works-hd/1080-16.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.068
+  },
+  {
+    "source": "/works/1082-16.webp",
+    "output": "/works-hd/1082-16.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.078
+  },
+  {
+    "source": "/works/1090-16.webp",
+    "output": "/works-hd/1090-16.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.024
+  },
+  {
+    "source": "/works/917-29.webp",
+    "output": "/works-hd/917-29.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.07
+  },
+  {
+    "source": "/works/919-102.webp",
+    "output": "/works-hd/919-102.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.036
+  },
+  {
+    "source": "/works/919-1035.webp",
+    "output": "/works-hd/919-1035.webp",
+    "from": "1600x5600",
+    "to": "2400x8400",
+    "bytesPerPixel": 0.023
+  },
+  {
+    "source": "/works/919-1083.webp",
+    "output": "/works-hd/919-1083.webp",
+    "from": "1600x3000",
+    "to": "3072x5760",
+    "bytesPerPixel": 0.028
+  },
+  {
+    "source": "/works/919-134.webp",
+    "output": "/works-hd/919-134.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.034
+  },
+  {
+    "source": "/works/919-160.webp",
+    "output": "/works-hd/919-160.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.032
+  },
+  {
+    "source": "/works/919-199.webp",
+    "output": "/works-hd/919-199.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.049
+  },
+  {
+    "source": "/works/919-22.webp",
+    "output": "/works-hd/919-22.webp",
+    "from": "1600x1200",
+    "to": "3072x2304",
+    "bytesPerPixel": 0.087
+  },
+  {
+    "source": "/works/919-23.webp",
+    "output": "/works-hd/919-23.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.076
+  },
+  {
+    "source": "/works/919-238.webp",
+    "output": "/works-hd/919-238.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.074
+  },
+  {
+    "source": "/works/919-24.webp",
+    "output": "/works-hd/919-24.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.092
+  },
+  {
+    "source": "/works/919-25.webp",
+    "output": "/works-hd/919-25.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.074
+  },
+  {
+    "source": "/works/919-26.webp",
+    "output": "/works-hd/919-26.webp",
+    "from": "1600x1632",
+    "to": "3072x3133",
+    "bytesPerPixel": 0.053
+  },
+  {
+    "source": "/works/919-27.webp",
+    "output": "/works-hd/919-27.webp",
+    "from": "1600x1143",
+    "to": "3072x2195",
+    "bytesPerPixel": 0.076
+  },
+  {
+    "source": "/works/919-28.webp",
+    "output": "/works-hd/919-28.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.06
+  },
+  {
+    "source": "/works/919-285.webp",
+    "output": "/works-hd/919-285.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.067
+  },
+  {
+    "source": "/works/919-29.webp",
+    "output": "/works-hd/919-29.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.046
+  },
+  {
+    "source": "/works/919-290.webp",
+    "output": "/works-hd/919-290.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.086
+  },
+  {
+    "source": "/works/919-30.webp",
+    "output": "/works-hd/919-30.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.029
+  },
+  {
+    "source": "/works/919-31.webp",
+    "output": "/works-hd/919-31.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.035
+  },
+  {
+    "source": "/works/919-311.webp",
+    "output": "/works-hd/919-311.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.1
+  },
+  {
+    "source": "/works/919-316.webp",
+    "output": "/works-hd/919-316.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.055
+  },
+  {
+    "source": "/works/919-32.webp",
+    "output": "/works-hd/919-32.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.059
+  },
+  {
+    "source": "/works/919-33.webp",
+    "output": "/works-hd/919-33.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.05
+  },
+  {
+    "source": "/works/919-34.webp",
+    "output": "/works-hd/919-34.webp",
+    "from": "1600x1067",
+    "to": "3072x2049",
+    "bytesPerPixel": 0.063
+  },
+  {
+    "source": "/works/919-359.webp",
+    "output": "/works-hd/919-359.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.057
+  },
+  {
+    "source": "/works/919-36.webp",
+    "output": "/works-hd/919-36.webp",
+    "from": "1600x1290",
+    "to": "3072x2477",
+    "bytesPerPixel": 0.098
+  },
+  {
+    "source": "/works/919-476.webp",
+    "output": "/works-hd/919-476.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.097
+  },
+  {
+    "source": "/works/919-486.webp",
+    "output": "/works-hd/919-486.webp",
+    "from": "1600x1667",
+    "to": "3072x3201",
+    "bytesPerPixel": 0.024
+  },
+  {
+    "source": "/works/919-517.webp",
+    "output": "/works-hd/919-517.webp",
+    "from": "1600x1334",
+    "to": "3072x2561",
+    "bytesPerPixel": 0.072
+  },
+  {
+    "source": "/works/919-543.webp",
+    "output": "/works-hd/919-543.webp",
+    "from": "1600x4945",
+    "to": "2400x7418",
+    "bytesPerPixel": 0.061
+  },
+  {
+    "source": "/works/919-58.webp",
+    "output": "/works-hd/919-58.webp",
+    "from": "1600x893",
+    "to": "3072x1715",
+    "bytesPerPixel": 0.081
+  },
+  {
+    "source": "/works/919-59.webp",
+    "output": "/works-hd/919-59.webp",
+    "from": "1600x1236",
+    "to": "3072x2373",
+    "bytesPerPixel": 0.091
+  },
+  {
+    "source": "/works/919-596.webp",
+    "output": "/works-hd/919-596.webp",
+    "from": "1600x7556",
+    "to": "2400x11334",
+    "bytesPerPixel": 0.045
+  },
+  {
+    "source": "/works/919-62.webp",
+    "output": "/works-hd/919-62.webp",
+    "from": "1600x535",
+    "to": "3072x1027",
+    "bytesPerPixel": 0.072
+  },
+  {
+    "source": "/works/919-63.webp",
+    "output": "/works-hd/919-63.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.063
+  },
+  {
+    "source": "/works/919-65.webp",
+    "output": "/works-hd/919-65.webp",
+    "from": "1600x2418",
+    "to": "3072x4643",
+    "bytesPerPixel": 0.051
+  },
+  {
+    "source": "/works/919-66.webp",
+    "output": "/works-hd/919-66.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.078
+  },
+  {
+    "source": "/works/919-687.webp",
+    "output": "/works-hd/919-687.webp",
+    "from": "1600x4944",
+    "to": "2400x7416",
+    "bytesPerPixel": 0.043
+  },
+  {
+    "source": "/works/919-734.webp",
+    "output": "/works-hd/919-734.webp",
+    "from": "1600x4944",
+    "to": "2400x7416",
+    "bytesPerPixel": 0.046
+  },
+  {
+    "source": "/works/919-75.webp",
+    "output": "/works-hd/919-75.webp",
+    "from": "1600x900",
+    "to": "3072x1728",
+    "bytesPerPixel": 0.033
+  },
+  {
+    "source": "/works/919-781.webp",
+    "output": "/works-hd/919-781.webp",
+    "from": "1600x5112",
+    "to": "2400x7668",
+    "bytesPerPixel": 0.065
+  },
+  {
+    "source": "/works/919-844.webp",
+    "output": "/works-hd/919-844.webp",
+    "from": "1600x1200",
+    "to": "3072x2304",
+    "bytesPerPixel": 0.02
+  },
+  {
+    "source": "/works/919-873.webp",
+    "output": "/works-hd/919-873.webp",
+    "from": "1600x1200",
+    "to": "3072x2304",
+    "bytesPerPixel": 0.024
+  },
+  {
+    "source": "/works/919-909.webp",
+    "output": "/works-hd/919-909.webp",
+    "from": "1600x1800",
+    "to": "3072x3456",
+    "bytesPerPixel": 0.023
+  },
+  {
+    "source": "/works/919-949.webp",
+    "output": "/works-hd/919-949.webp",
+    "from": "1600x3000",
+    "to": "3072x5760",
+    "bytesPerPixel": 0.023
+  },
+  {
+    "source": "/works/920-18.webp",
+    "output": "/works-hd/920-18.webp",
+    "from": "1600x2400",
+    "to": "3072x4608",
+    "bytesPerPixel": 0.091
+  },
+  {
+    "source": "/works/920-22.webp",
+    "output": "/works-hd/920-22.webp",
+    "from": "1600x1598",
+    "to": "3072x3068",
+    "bytesPerPixel": 0.078
+  },
+  {
+    "source": "/works/921-16.webp",
+    "output": "/works-hd/921-16.webp",
+    "from": "1600x904",
+    "to": "3072x1736",
+    "bytesPerPixel": 0.077
+  },
+  {
+    "source": "/works/986-29.webp",
+    "output": "/works-hd/986-29.webp",
+    "from": "1600x2400",
+    "to": "3072x4608",
+    "bytesPerPixel": 0.103
+  },
+  {
+    "source": "/works/airvora-main.png",
+    "output": "/works-hd/airvora-main.webp",
+    "from": "1254x1254",
+    "to": "2508x2508",
+    "bytesPerPixel": 0.78
+  },
+  {
+    "source": "/works/balence-original-04.webp",
+    "output": "/works-hd/balence-original-04.webp",
+    "from": "1094x1465",
+    "to": "2188x2930",
+    "bytesPerPixel": 0.974
+  },
+  {
+    "source": "/works/balence-original-05.webp",
+    "output": "/works-hd/balence-original-05.webp",
+    "from": "828x1483",
+    "to": "1656x2966",
+    "bytesPerPixel": 0.949
+  },
+  {
+    "source": "/works/balence-poster.webp",
+    "output": "/works-hd/balence-poster.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.019
+  },
+  {
+    "source": "/works/balence-system.webp",
+    "output": "/works-hd/balence-system.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.023
+  },
+  {
+    "source": "/works/fresko-hero-web.webp",
+    "output": "/works-hd/fresko-hero-web.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.084
+  },
+  {
+    "source": "/works/fresko-main.png",
+    "output": "/works-hd/fresko-main.webp",
+    "from": "1254x1254",
+    "to": "2508x2508",
+    "bytesPerPixel": 0.795
+  },
+  {
+    "source": "/works/mist-detail-v2.webp",
+    "output": "/works-hd/mist-detail-v2.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.249
+  },
+  {
+    "source": "/works/mist-lab-hero-web.webp",
+    "output": "/works-hd/mist-lab-hero-web.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.075
+  },
+  {
+    "source": "/works/mist-lab-neck-handle-detail.webp",
+    "output": "/works-hd/mist-lab-neck-handle-detail.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.056
+  },
+  {
+    "source": "/works/mist-studio-v2.webp",
+    "output": "/works-hd/mist-studio-v2.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.088
+  },
+  {
+    "source": "/works/momoya-cp-redraw.png",
+    "output": "/works-hd/momoya-cp-redraw.webp",
+    "from": "1254x1254",
+    "to": "2508x2508",
+    "bytesPerPixel": 1.482
+  },
+  {
+    "source": "/works/momoya-lip-editorial.webp",
+    "output": "/works-hd/momoya-lip-editorial.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.122
+  },
+  {
+    "source": "/works/momoya-qm-redraw.png",
+    "output": "/works-hd/momoya-qm-redraw.webp",
+    "from": "1254x1254",
+    "to": "2508x2508",
+    "bytesPerPixel": 1.67
+  },
+  {
+    "source": "/works/nero-applications.webp",
+    "output": "/works-hd/nero-applications.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.068
+  },
+  {
+    "source": "/works/nero-packaging.webp",
+    "output": "/works-hd/nero-packaging.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.081
+  },
+  {
+    "source": "/works/nero-system.webp",
+    "output": "/works-hd/nero-system.webp",
+    "from": "1600x1000",
+    "to": "3072x1920",
+    "bytesPerPixel": 0.07
+  },
+  {
+    "source": "/works/nexstep-hero-web.webp",
+    "output": "/works-hd/nexstep-hero-web.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.127
+  },
+  {
+    "source": "/works/nexstep-main.png",
+    "output": "/works-hd/nexstep-main.webp",
+    "from": "1254x1254",
+    "to": "2508x2508",
+    "bytesPerPixel": 1.323
+  },
+  {
+    "source": "/works/nexstep-studio-detail.webp",
+    "output": "/works-hd/nexstep-studio-detail.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.251
+  },
+  {
+    "source": "/works/qianshan-fold.webp",
+    "output": "/works-hd/qianshan-fold.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.076
+  },
+  {
+    "source": "/works/solvia-detail-v2.webp",
+    "output": "/works-hd/solvia-detail-v2.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.023
+  },
+  {
+    "source": "/works/solvia-hero-web.webp",
+    "output": "/works-hd/solvia-hero-web.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.055
+  },
+  {
+    "source": "/works/solvia-pump-detail.webp",
+    "output": "/works-hd/solvia-pump-detail.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.028
+  },
+  {
+    "source": "/works/solvia-studio-v2.webp",
+    "output": "/works-hd/solvia-studio-v2.webp",
+    "from": "1536x1024",
+    "to": "3072x2048",
+    "bytesPerPixel": 0.065
+  }
+]
